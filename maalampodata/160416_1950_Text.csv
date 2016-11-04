@@ -1,0 +1,152 @@
+Lämpöpumpun käyttöönotto
+
+16.4.2016;19:50
+Sarjanumero;251104-070
+Huollon Indeksi;a
+Sarjanumero 2;000000-000
+Huollon Indeksi 2;a
+Sarjanumero 3;000000-000
+Huollon Indeksi 3;a
+MAC;40-ec-f8-05-42-2c
+
+IP;10.100.10.200
+Aliv.peite;255.255.255.0
+Broadcast;10.100.10.255
+Yhdyskäyt.;10.100.10.1
+
+Laitetiedot:
+Lämpöpumpun tyyppi;MSW8
+Ohjelmaversio;V3.78
+Toimintataso;1
+Toimintatila;
+
+Järjestelmäasetukset:
+Ulk.ohjaus ON/OFF;Ei lisäläm
+1. Huoneanturi;Ei
+Varaaja;Puskuri
+1. Shunttaus;Purku
+Häiriö;Lisäläm ok
+Käyttövesi 1;Anturi
+Käyttövesi 2;LVK päällä
+Käyttövesi 3;ZUP käytös
+Käyttövesi 4;Asetusarvo
+Käyttövesi 5;HUP käytös
+LV+HP Maks;0.0 h
+Pumpun optimointi;Ei
+Kirjautuminen;Huolto
+Liuospaine/virtau;Vaihevahti
+Kompr seuranta;Pois
+Lämm.käyrän säätö;UlkoLT
+1. Shuntin säätö;UlkoLT
+Valun kuivaus;Shuntattu
+Sähköinen anodi;Ei
+Lämmitysrajat;Ei
+Monipumpputoimint;Ei
+Etähallinta;Kyllä
+Pumpun optimointi;180 min
+Desinfiointihäiriö;Ei
+Lämmönlähde;Liuos
+Lisälämpöraja;60 min
+Lisälämpö käyttövesi;Ei
+Lisäkäyttövesi jakso;5.0 h
+Sähkövastuksen teho;9.0 KW
+SG Ready;Ei
+1. Shuntin säätö;nopea
+
+Lämpötilat:
+Paluurajoitus;56.0°C
+Hystereesi: Lämmitys;4.0 K
+Hystereesi: Lämm maks;3.0 K
+Lisälämpöraja;-16.0°C
+Desinfiointi LT;60.0°C
+Hystereesi:Käyttövesi;5.0 K
+Min Liuos LT;-9.0°C
+Kuumakaasuraja;120.0°C
+Yöpudotus pois ulkoLT;-20.0°C
+Maks menovesi;64.0°C
+Min. lämmönlähdeLT;0.0°C
+Virtauksen rajoitus;64.0°C
+Käyttöveden max. LT;58.0°C
+Minimi järjestelmäLT;15.0°C
+
+ES-pumppu:
+Teho: lämmitys (nim);55 %
+Teho: Lämmitys (min);55 %
+Teho: Käyttövesi;70 %
+Teho: Liuospumppu;100 %
+
+Lisälämpö 1;
+Tyyppi;Sähkö
+Toiminto;Lämm + LV
+Positio;Integroitu
+Ulostulo;Out 6
+
+Lisälämpö 2;
+Tyyppi;Ei
+Toiminto;Ei
+Positio;---
+Ulostulo;---
+
+Lisäajat:
+Lisäajat VBO;1 min
+Lisäajat ZUP;0 s
+
+Prioriteetti :
+Lämmin käyttövesi;1
+Lämmitys;2
+
+Toimintatilat :
+Lämmitys;1
+Lämmin käyttövesi;1
+
+Lämmönsäätökäyrä Lämmitys;49.0C;20.0C;-1.5K
+Lämmönsäätökäyrä 1. Shunttaus;38.5C;22.0C;0.0K
+
+Informaatio Käyttötunnit :
+1.Komp käyntiaika;546h
+1.Komp käynnistykset;1374
+Keskim. käyntiaika;00:23
+Käyntiaika: 1.Lisäl ;10h
+Käyntiaika: Kompres;546h
+Käyntiaika: Lämmitys;525h
+Käyntiaika: Lämminv;19h
+
+Informaatio Lämpötilat:
+Meno;33.6°C
+Paluu;33.5°C
+Paluu asetus;32.8°C
+Kuumakaasu;34.7°C
+Ulkolämpötila;8.6°C
+Käyttövesi;47.6°C
+Käyttövesi asetus;50.0°C
+Liuos sisään;7.5°C
+Liuos ulos;7.1°C
+1. Shunttaus meno;31.2°C
+1. Shunttaus asetus;31.2°C
+Maks menovesi;64.0°C
+Imu kompressorille;34.3°C
+Tulistus;26.2 K
+Tulistuksen asetus;6.1 K
+
+
+Laajennuskortti = Ei
+
+Pysähtymistieto:
+16.04.16 19:19 Lämpö Ok
+16.04.16 17:34 Lämpö Ok
+16.04.16 15:23 Lämpö Ok
+16.04.16 13:01 Lämpö Ok
+16.04.16 10:51 Lämpö Ok
+
+
+Kalibrointi:
+Matalapaine;0
+Korkeapaine;80
+Imu kompressorille;0
+Imukaasu;0
+Meno;0
+Paluu;0
+Liuos sisään;0
+Liuos ulos;0
+Kompr. lämmitys;0
+Kuumakaasu;0
